@@ -1,0 +1,6 @@
+.userInput {
+	display:  grid;
+	width: 50%;
+	grid-template-columns: 1fr 1fr;
+	column-gap: 10px;
+}
